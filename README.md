@@ -1,4 +1,4 @@
-## Fala galera! Eu sou o Jesus Vicken, estudante e criador de conteúdo de programação e tecnologia, atualmente meu foco de estudos está no Front end com utilizando Javascript e sua amada biblioteca ReactJs. <3 
+## Olá! Sou Jesus Vicken, estudante e entusiasta de programação e tecnologia. Atualmente, estou focado no desenvolvimento front-end com JavaScript e ReactJs. <3 
 
 <div align="center">
   <a href="https://github.com/JesusVicken">
