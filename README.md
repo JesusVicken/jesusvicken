@@ -1,4 +1,8 @@
-## Olá! Sou Jesus Vicken, estudante e entusiasta de programação e tecnologia. Atualmente, estou focado no desenvolvimento front-end com JavaScript e ReactJs. <3 
+const JesusVicken = {
+  nome: "JESUS VICKEN DE SOUSA",
+  Area: "DESENVOLVIMENTO WEB",
+  Linguagens: ["python", "JavaScript", "React"],
+};
 
 <div align="center">
   <a href="https://github.com/JesusVicken">
