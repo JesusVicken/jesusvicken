@@ -1,8 +1,4 @@
-const JesusVicken = {
-  nome: "JESUS VICKEN DE SOUSA",
-  Area: "DESENVOLVIMENTO WEB",
-  Linguagens: ["python", "JavaScript", "React"],
-};
+
 
 <div align="center">
   <a href="https://github.com/JesusVicken">
